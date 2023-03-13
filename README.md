@@ -24,3 +24,30 @@ HORARIO
 | 4:00-5:00   | SCC-1014SC6A  | SCC-1014SC6A  | SCC-1014SC6A  | SCC-1014SC6A  |               |
 | 5:00-6:00   | SCD-1015SC6A  | SCD-1015SC6A  | SCD-1015SC6A  | SCD-1015SC6A  | SCD-1015SC6A  |
 | 6:00-7:00   | SCB-1001SC6A  | SCB-1001SC6A  | SCB-1001SC6A  | SCB-1001SC6A  | SCB-1001SC6A  |
+
+
+//Codigo Hola mundo
+using System;
+
+namespace holaMundo
+
+{
+      
+      public class Program
+       
+      {
+                
+                static void Main(string[] args)
+                
+                {
+                        
+                        Console.WriteLine("Hola Mundo!!!");
+                        
+                        Console.ReadKey();
+                
+                }
+        
+        }
+
+
+}
